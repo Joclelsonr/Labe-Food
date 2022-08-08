@@ -32,7 +32,7 @@
 
 <a href="https://future-eats5.surge.sh/">Future Eats</a>
 
-<h3> Funcionalidades</h3>
+<h3>Funcionalidades</h3>
 
 
 <hr/>
