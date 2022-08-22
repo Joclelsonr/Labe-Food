@@ -98,9 +98,9 @@ Siga o passo-a-passo abaixo:
 
 <hr/>
 
+<p>Joclelson Rodrigues</p>
 <p>Gabriel Theodoro</p>
 <p>João Zang</p>
 <p>Rodrigo Póvoa</p>
 <p>Daniel Andrade</p>
-<p>Joclelson Rodrigues</p>
 <p>Maria Caroline Pereira</p>
